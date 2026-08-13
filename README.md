@@ -8,7 +8,7 @@ How to use:
 
 -Close Minecraft and Ninjabrainbot
 
--Run auto_boateye_settings.exe
+-Run auto_boateye_settings.exe or auto_settings.py if you have python.
 
 -Select the directory of your Minecraft instance (it can either be the instance folder or the "minecraft" folder inside the instance)
 
