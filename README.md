@@ -1,5 +1,5 @@
 Use only on Windows with Toolscreen and Ninjabrainbot already installed. 
-Project still in developement, may not work in some cases.
+Project still in development, may not work in some cases.
 
 
 How to use:
@@ -16,3 +16,12 @@ How to use:
 
 -Click "ok" and reopen Minecraft and Ninjabrainbot.
 
+
+
+Safety: 
+
+Since the .exe file isn't licensed (it was compiled by me using Pyinstaller) you will need to check that you trust the owner to download and to run the file.
+
+If you run the .exe file through a virus checker online, it will most likely give a few false positives due to accessing the registry, where Ninjabrainbot's settings are located.
+
+If you have any issues or questions, feel free to message me on discord: _flaku
